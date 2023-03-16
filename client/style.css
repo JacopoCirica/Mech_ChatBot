@@ -78,8 +78,8 @@ body {
 }
 
 .profile {
-  width: 36px;
-  height: 36px;
+  width: 72px;
+  height: 72px;
   border-radius: 5px;
   margin-right: 3%;
   background: #5436DA;
@@ -101,9 +101,9 @@ body {
 
 .message {
   flex: 1;
-  padding-top: 0.4%;
+  padding-top: 0.8%;
   color: #dcdcdc;
-  font-size: 20px;
+  font-size: 40px;
 
   max-width: 100%;
   overflow-x: scroll;
@@ -141,7 +141,7 @@ textarea {
   width: 100%;
 
   color: #fff;
-  font-size: 21px;
+  font-size: 42px;
 
   padding: 10px;
   background: transparent;
@@ -177,7 +177,7 @@ form img {
   background-color: #1c1e26;
   border-color: white;
   border-radius: 20px; 
-  font-size: 20px;
+  font-size: 32px;
   width: 95%; 
   height: 100px;
   font-weight: 400;
